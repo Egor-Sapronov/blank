@@ -18,3 +18,12 @@ var gulp = require('gulp'),
 gulp.task('clean', function () {
     del([paths.dist + '**']);
 });
+
+gulp.task('jade', function () {
+    return gulp.src(paths.assets + 'templates/**/*.jade')
+        .pipe(plumber())
+        .pipe(jade({
+            pretty: true
+        }))
+        .pipe(gulp.dest(paths.dist + 'assets/templates'));
+});
