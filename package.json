@@ -1,0 +1,31 @@
+{
+  "name": "blank",
+  "version": "0.0.0",
+  "description": "Boilerplate for modern web apps",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Egor-Sapronov/blank.git"
+  },
+  "keywords": [
+    "front-end",
+    "gulp",
+    "development",
+    "tool",
+    "web",
+    "boilerplate",
+    "app",
+    "build",
+    "dev"
+  ],
+  "author": "Egor Sapronov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Egor-Sapronov/blank/issues"
+  },
+  "homepage": "https://github.com/Egor-Sapronov/blank"
+}
