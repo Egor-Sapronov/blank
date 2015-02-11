@@ -18,3 +18,7 @@ node_modules
 
 # Webstorm user specific
 .idea
+
+# web app build folder
+
+dist

@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/Egor-Sapronov/blank",
   "devDependencies": {
+    "del": "^1.1.1",
     "gulp": "^3.8.11",
     "gulp-cssmin": "^0.1.6",
     "gulp-if": "^1.2.5",
