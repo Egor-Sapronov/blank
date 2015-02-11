@@ -1,0 +1,28 @@
+{
+  "name": "blank",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Egor-Sapronov/blank",
+  "authors": [
+    "Egor <sapronov.egor@gmail.com>"
+  ],
+  "description": "Boilerplate for modern web apps",
+  "keywords": [
+    "front-end",
+    "gulp",
+    "development",
+    "tool",
+    "web",
+    "boilerplate",
+    "app",
+    "build",
+    "dev"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
